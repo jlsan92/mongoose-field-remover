@@ -1,6 +1,6 @@
 {
   "name": "mongoose-field-remover",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mongoose plugin to simply remove fields from documents when .toJSON() is called",
   "main": "index.js",
   "scripts": {
